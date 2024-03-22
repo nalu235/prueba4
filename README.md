@@ -8,3 +8,19 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 
 ### texto
 Se entiende por texto una composición ordenada de signos inscritos en un sistema de escritura, cuya lectura permite recobrar un sentido específico referido por el emisor
+
+## Technologies
+- Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
+- Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
+
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+
+## Hobbies
+- Dancing: ...
+
+asdasd
+
+## Language
+-Ingles
+-Japones
